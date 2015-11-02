@@ -1,8 +1,8 @@
 ---
 title: "TBSMSubStateSetup"
 summary: "Creates a TBSMSubState with submachine etc."
-completion-scope: All
 completion-prefix: "TBSMSubState_setup_snippet"
+completion-scope: All
 ---
 
 TBSMSubState *<# substate #> = [TBSMSubState subStateWithName:@"<# substate #>"];
