@@ -2,7 +2,7 @@
 title: "TBSMParallelStateSetup"
 summary: "Creates a TBSMParallelState with submachines etc."
 completion-prefix: "TBSMParallelState_setup_snippet"
-completion-scope: All
+completion-scope: CodeBlock
 ---
 
 TBSMParallelState *<# parallelstate #> = [TBSMParallelState parallelStateWithName:@"<# parallelstate #>"];

@@ -2,7 +2,7 @@
 title: "GHRunLoopWatchdog"
 summary: "GHRunLoopWatchdog instance to detect stalling of the main thread."
 completion-prefix: "GHRunLoopWatchdog_snippet"
-completion-scope: All
+completion-scope: CodeBlock
 ---
 
 self.runloopWatchdog = [[GHRunLoopWatchdog alloc] initWithRunLoop:CFRunLoopGetMain()];

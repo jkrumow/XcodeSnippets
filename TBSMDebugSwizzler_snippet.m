@@ -2,7 +2,7 @@
 title: "TBSMDebugSwizzler swizzle stub"
 summary: "Overrides +load containing a dispatch_once block to execute swizzle code."
 completion-prefix: "TBSMDebugSwizzler_stub_snippet"
-completion-scope: All
+completion-scope: CodeBlock
 ---
 
 + (void)load
