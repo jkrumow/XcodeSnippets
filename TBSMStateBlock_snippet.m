@@ -5,7 +5,7 @@ completion-prefix: "TBSMStateBlock_snippet"
 completion-scope: CodeBlock
 ---
 
-^(TBSMState *source, TBSMState *target, NSDictionary *data) {
+^(NSDictionary *data) {
         
     <#code#>
 };
